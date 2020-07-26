@@ -15979,8 +15979,9 @@ strong .bold-text-23 {
     position: relative;
     left: auto;
     top: auto;
-    margin-bottom: 25px;
-    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: -40px;
+    margin-top: 12px;
 }
   .dropdown-content-2 {
     padding-right: 5px;
