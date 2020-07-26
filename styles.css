@@ -14448,10 +14448,10 @@ strong .bold-text-23 {
     -ms-grid-rows: auto auto;
     grid-template-rows: auto auto;
 }
-.w-inline-block{
-  margin-top: 20px;
-  margin-right: 0px;
-  margin-bottom: -20px;
+.w-inline-block {
+    margin-top: 20px;
+    margin-right: 36px;
+    margin-bottom: -20px;
 }
   .paragraph-27 {
     margin-right: 5px
